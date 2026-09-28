@@ -1,0 +1,73 @@
+static const s1 client_pem[] =
+"Bag Attributes"
+"    localKeyID: FA C3 0E 8B 51 EE 47 63 E9 7C 15 9A E0 0B 6E 2B 9F 49 84 B1 "
+"subject=C = AU, ST = Victoria, O = Clarinox, CN = prasanna, emailAddress = prasanna_test@clarinox.com"
+""
+"issuer=C = AU, ST = Victoria, L = Cheltenham, O = Clarinox, emailAddress = ca@clarinox.com, CN = CA"
+""
+"-----BEGIN CERTIFICATE-----"
+"MIIDsDCCApigAwIBAgIBBzANBgkqhkiG9w0BAQsFADB1MQswCQYDVQQGEwJBVTER"
+"MA8GA1UECAwIVmljdG9yaWExEzARBgNVBAcMCkNoZWx0ZW5oYW0xETAPBgNVBAoM"
+"CENsYXJpbm94MR4wHAYJKoZIhvcNAQkBFg9jYUBjbGFyaW5veC5jb20xCzAJBgNV"
+"BAMMAkNBMB4XDTIxMDMxNjAzNDgwOVoXDTIxMDUxNTAzNDgwOVowcTELMAkGA1UE"
+"BhMCQVUxETAPBgNVBAgMCFZpY3RvcmlhMREwDwYDVQQKDAhDbGFyaW5veDERMA8G"
+"A1UEAwwIcHJhc2FubmExKTAnBgkqhkiG9w0BCQEWGnByYXNhbm5hX3Rlc3RAY2xh"
+"cmlub3guY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtCweZsPW"
+"roy6CvK52HS0lElfx1SIqNnG/GSImhiCt/RHUlFXFk4rpHUA0OOc47bVN8kmTv/X"
+"s6c/pUndk29LvwgM+vnWlo2NVmosegDJvANgD4C+CRpyDxCXdhWf3QlSK+LuMQEK"
+"Se3dAS/pBdpM+/wMwCbc9QKJcZDKGKi5o+lOxr6e2j/rtxLl9Ke/w5tAoZyFrAr3"
+"3mrzC3IzkD+9E70cUnVQKdzDlsVZpyYSsxeKjDk4tGZ6eWSrr5YwgBtI8ZvtzFEk"
+"IcxRxNipMJ4TBTtdRXX2vlYmaKcGnXsbsKzVS84IZqRxb5Vpge7FApijfN5EqQmT"
+"g+pLNCAeT6G49wIDAQABo08wTTATBgNVHSUEDDAKBggrBgEFBQcDAjA2BgNVHR8E"
+"LzAtMCugKaAnhiVodHRwOi8vd3d3LmV4YW1wbGUuY29tL2V4YW1wbGVfY2EuY3Js"
+"MA0GCSqGSIb3DQEBCwUAA4IBAQA7Lzb2KRcRw0Ws2Okmrub1uyGD4W9Smlpgw1Kd"
+"Q5i4LkePO7kaZlGZLq2EI3Apm5RGrGNfIbqm5zjxYd/firF6j2y9+xP3PEPmx0ox"
+"RspXLEfsFHjT9XHwz3slQvLeo514/y78c5XyLJz32vguQ1vJv1HjGzuZ72N9xkfD"
+"eWJbXkimmffuEmXRTzbvKglbE9eYjuaEEWAYX+VytyOZB4vyQQiAfFfuMYghoBcH"
+"egn7twYA50A/5fL6XcvhkZodA7gjdGv/fDz7DSkBROVOLSaSy5GaKFr9T3Bpi4kb"
+"RLFB+ujHoaSamK5gQS+oLK0fB3XXUhMGNhdyd1FToWsYctWz"
+"-----END CERTIFICATE-----"
+"Bag Attributes"
+"    localKeyID: FA C3 0E 8B 51 EE 47 63 E9 7C 15 9A E0 0B 6E 2B 9F 49 84 B1 "
+"Key Attributes: <No Attributes>"
+"-----BEGIN ENCRYPTED PRIVATE KEY-----"
+"MIIFHDBOBgkqhkiG9w0BBQ0wQTApBgkqhkiG9w0BBQwwHAQIofI2VPpMdZ4CAggA"
+"MAwGCCqGSIb3DQIJBQAwFAYIKoZIhvcNAwcECJd83Wn5NqB5BIIEyKRiLHaFseqg"
+"UObHyYV3oNUXNWBd2k99X1iMacnE20rHEWB/2p5BH2s1EzFAjSRNaYyp4U5iXAom"
+"De7mTcMf+/zrUwXpalHYbVSkCdsUwLVMItC3yJuz6GoNVF4v+cHalMHxyKMywVR4"
+"ubRH9k0vWSz+HTmnLOQDXg+zWuC8BAR6dtK1B8dKtIlpJV5nVy3bibqwtylKf0ss"
+"CPtxa8N47Lf3DJ3Twnxw6Xp7/nMDOaEuEV22RWXvwKdB7B5WWVblGQQvzH7dYRIR"
+"biSKfzVLu8fnakIacs1l1NGo2BetYksBv64TiOvqSejd/nYWGEWNIWq6iUy0PpME"
+"SLrvmcK9QUayTJdm3wLtAZfEyOqLU3AsYfc8ZcJ9wFmDY0P6S7m/g7U3YrtVXOy9"
+"He8lRgNh1iuF5BEpbQDFffKQJSAydUraUaPca2jFr9gRVTKQieoeOGQrXF2j9XP/"
+"kVwI+3+NzbV1TxqDqpGdaEhRxSLnOn//d0GJTTRfBAtLEYLMIg+tPKgvv5wMXHu9"
+"10l1NRbxa32YUqBUezVRapjGPe8ktageZX6VGMGdFpk6BmmuI77cNbG4koWc9OSE"
+"geQnu82QOqpkboM+vf4bPy82iWdxX1JtRI9bqgxRZNjjrBN4CSn8A6qnymDThMqv"
+"B0IR5IPx75fYfJzrBWZNDpgP4dCBo0rFll1KBWMQB3gEysTHL9ErEJ05lY+JxRke"
+"mUuKDb+y1SvANtE1MYEsbOtvt/YcS5Z6SvADN47LnHnWAL7UEholaPHqXO1QeutE"
+"KZk9dT+KZ7Oe2ib68PWfAsXHOozTDLJSRN2BrVPxPFAJxgcZdrxuqM9VIbuEqJ6f"
+"pf4JVAzKM/vvht6+4uJxBhYY0euprTmSDcJ2Aajs69reSL6pF3dF+F5k59RIZFjf"
+"rbJR6u6fSo3gD4BgZ9z5tyX/FphMZtGjfG7uLiWQ3t9GPXR0NOE8CbOcOIO0d0fS"
+"RW8VDXSQkVb8MmdXeAdxjfHdYS/3nfl0t1QnmGlE8u0KZst1jP9wxifBUoCu5K/x"
+"wLwrW8+NDUPEhyrQ5uy0PWyo+1McGVEJVfCXDm5tdKKe8416zFirmR/pLzltOdt/"
+"cT9UmCt50JgMXDEYgbSZvtruQbKm8RfKEHdLtXPI9RxqPAhDfFOlsmVxS09xwZ6e"
+"Lhgh7ciUQRnFt3QVCq+nOhHuBpCaY/ZIgMoXJz6doh2l3nsSm8G9GxeEwqSJeBM3"
+"HTvQctJXCWdpz7A3RmCLg8mjztwU5TbPaYho4hFYgj39UBXMpcr1ZddrbFS3jr6a"
+"gNqaZiLnzl/RempKyj0i/TI7ykj7/w//nTdbuVY7ZBru01B0cyfqh71DP7PEk6Bt"
+"UmmSFlJhpL0iEkw945iHL+jY/tc728KQZ9e/9tV1zIf/XDWXUXqjk8SpJJV8qx2h"
+"C4hpjbC3jUB5R/dpKC12zvhhg0xyqy2U4bu/TUCbfO5vlt5OJbONrqj2GzA/kMSH"
+"bHejU3llcKGnAhYe5lkmTMgEuIbC07w++tAIqbVPNsOUzDB8zRYOoWqqB8d7di4O"
+"eOyKsgAammZRi+OXwU3op6vQ4cNwajAKAIXREcpIiSF/OtyymdulfWfB0jKv50nx"
+"dLoLJJmPx4reLWwig2OZew=="
+"-----END ENCRYPTED PRIVATE KEY-----";
+
+/******************************************************************************/ 
+/* 1. MISRA C 2012 RULE VIOLATION:                                            */ 
+/* Message       : A pointer should point to a const-qualified type 	 	  */
+/*				   whenever possible										  */
+/* Rule          : MISRA-C:2012 Rule 8.9                                      */ 
+/* Category		 : Advisory													  */
+/* Justification : Low risk, this variable are static and they are not  	  */
+/* 				   inadvertently accessed or modified. Only the file File.c   */
+/*				   access this for reading		                              */
+/******************************************************************************/
