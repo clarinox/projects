@@ -1,5 +1,7 @@
-# NXP Application Code Hub
-[<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" width="100"/>](https://www.nxp.com)
+# Clarinox - NXP Application Code Hub
+[<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" height="50"/>](https://www.nxp.com)
+
+[<img src="Images/Clarinox_Logo_RGB.svg" height="50" />](https://www.clarinox.com)
  
 ## Clarinox Bluetooth Low Energy and WiFi AP and Station simultaneous operation demonstration using IAR toolchain on RW612
 
